@@ -1,0 +1,18 @@
+cd C:\Users\User\Downloads\vagrant-k8s\kubernetes-vagrant
+
+vagrant up 
+vagrant suspend
+vagrant resume
+vagrant destroy
+vagrant up
+
+
+====
+machined 
+
+vagrant suspend
+vagrant resume
+vagrant status
+vagrant ssh m
+vagrant ssh n1
+vagrnat ssh n2
